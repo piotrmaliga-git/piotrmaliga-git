@@ -13,3 +13,23 @@ I am a student of the third year of Information Technology (specialization in IT
 #### [My Best Photos (Masonry grid)](https://piotrmaliga-git.github.io/My-Best-Photos--Masonry-grid/) ➜ [Repository](https://github.com/piotrmaliga-git/My-Best-Photos--Masonry-grid)
 
 #### [Poznaj Linuxa! (Linux website)](https://piotrmaliga-git.github.io/Poznaj-Linuxa--Linux-website/) ➜ [Repository](https://github.com/piotrmaliga-git/Poznaj-Linuxa--Linux-website)
+
+## My development toolbelt
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
+
+<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" />
+
+<img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/color/48/000000/css3.png" />
+
+<img align="left" alt="Sass" width="26px" src="https://img.icons8.com/color/48/000000/sass.png" />
+
+<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+
+<img align="left" alt="Bootstrap" width="26px" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
+
+<img align="left" alt="Git" width="26px" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-256.png" />
+
+<img align="left" alt="GitHub" width="26px" src="https://image.flaticon.com/icons/png/512/889/889111.png" />
+
+<img align="left" alt="Terminal" width="26px" src="https://img.icons8.com/fluency/48/000000/console.png" />
