@@ -48,3 +48,9 @@ I am a student of the third year of Information Technology (specialization in IT
 <img align="left" alt="Node.js" width="26px" src="https://img.icons8.com/color/48/000000/nodejs.png" />
 
 <img align="left" alt="Gulp" width="26px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-gulp-an-open-source-javascript-toolkit-by-fractal-innovations-logo-shadow-tal-revivo.png" />
+
+<br />
+<br />
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piotrmaliga-git&layout=compact&langs_count=10)](https://github.com/piotrmaliga-git/github-readme-stats)
