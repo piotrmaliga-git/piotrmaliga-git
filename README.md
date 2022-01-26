@@ -32,6 +32,8 @@ I am a student of the third year of Information Technology (specialization in IT
 
 <img align="left" alt="GitHub" width="26px" src="https://image.flaticon.com/icons/png/512/889/889111.png" />
 
+<img align="left" alt="Docker" width="26px" src="https://img.icons8.com/color/48/000000/docker.png" />
+
 <img align="left" alt="Terminal" width="26px" src="https://img.icons8.com/fluency/48/000000/console.png" />
 
 <br/>
@@ -39,15 +41,15 @@ I am a student of the third year of Information Technology (specialization in IT
 
 ## Currently learning
 
-<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-
 <img align="left" alt="React.js" width="26px" src="https://img.icons8.com/color/48/000000/react-native.png" />
+
+<img align="left" alt="Styled Components" width="26px" src="https://www.styled-components.com/atom.png" />
 
 <img align="left" alt="TypeScript" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" />
 
 <img align="left" alt="Node.js" width="26px" src="https://img.icons8.com/color/48/000000/nodejs.png" />
 
-<img align="left" alt="Gulp" width="26px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-gulp-an-open-source-javascript-toolkit-by-fractal-innovations-logo-shadow-tal-revivo.png" />
+<img align="left" alt="Npm" width="26px" src="https://img.icons8.com/color/48/000000/npm.png" />
 
 <br />
 <br />
