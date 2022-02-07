@@ -43,6 +43,8 @@ I am a student of the third year of Information Technology (specialization in IT
 
 <img align="left" alt="React.js" width="26px" src="https://img.icons8.com/color/48/000000/react-native.png" />
 
+<img align="left" alt="Gatsby.js" width="26px" src="https://img.icons8.com/color/48/000000/gatsbyjs.png" />
+
 <img align="left" alt="Styled Components" width="26px" src="https://www.styled-components.com/atom.png" />
 
 <img align="left" alt="TypeScript" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" />
