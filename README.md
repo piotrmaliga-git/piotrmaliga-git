@@ -30,7 +30,7 @@ I am a student of the third year of Information Technology (specialization in IT
 
 <img align="left" alt="Git" width="26px" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-256.png" />
 
-<img align="left" alt="GitHub" width="26px" src="https://image.flaticon.com/icons/png/512/889/889111.png" />
+<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/fluency/344/github.png" />
 
 <img align="left" alt="Docker" width="26px" src="https://img.icons8.com/color/48/000000/docker.png" />
 
