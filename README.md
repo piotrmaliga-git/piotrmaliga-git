@@ -28,11 +28,15 @@ I am a student of the third year of Information Technology (specialization in IT
 
 <img align="left" alt="Bootstrap" width="26px" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
 
+<img align="left" alt="Node.js" width="26px" src="https://img.icons8.com/color/48/000000/nodejs.png" />
+
+<img align="left" alt="Npm" width="26px" src="https://img.icons8.com/color/48/000000/npm.png" />
+
+<img align="left" alt="Yarn" width="26px" src="https://pics.freeicons.io/uploads/icons/png/818873051552562364-512.png" />
+
 <img align="left" alt="Git" width="26px" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-256.png" />
 
 <img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/fluency/344/github.png" />
-
-<img align="left" alt="Docker" width="26px" src="https://img.icons8.com/color/48/000000/docker.png" />
 
 <img align="left" alt="Terminal" width="26px" src="https://img.icons8.com/fluency/48/000000/console.png" />
 
@@ -41,17 +45,9 @@ I am a student of the third year of Information Technology (specialization in IT
 
 ## Currently learning
 
-<img align="left" alt="React.js" width="26px" src="https://img.icons8.com/color/48/000000/react-native.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 
-<img align="left" alt="Gatsby.js" width="26px" src="https://img.icons8.com/color/48/000000/gatsbyjs.png" />
-
-<img align="left" alt="Styled Components" width="26px" src="https://www.styled-components.com/atom.png" />
-
-<img align="left" alt="TypeScript" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" />
-
-<img align="left" alt="Node.js" width="26px" src="https://img.icons8.com/color/48/000000/nodejs.png" />
-
-<img align="left" alt="Npm" width="26px" src="https://img.icons8.com/color/48/000000/npm.png" />
+<img align="left" alt="Vue.js" width="26px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-color-tal-revivo.png" />
 
 <br />
 <br />
