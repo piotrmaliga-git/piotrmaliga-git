@@ -43,7 +43,7 @@ I am a student of the third year of Information Technology (specialization in IT
 <br/>
 <br/>
 
-## Currently learning
+## Currently in progress
 
 <img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 
