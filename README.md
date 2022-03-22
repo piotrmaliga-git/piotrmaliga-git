@@ -4,7 +4,7 @@
 
 ## About me
 
-I am a student of the third year of Information Technology (specialization in IT System Administration) at Pedagogical University of Cracow. I'm looking for my first job as a Junior Front-end Developer. I am constantly trying to develop in this direction and learn new technologies and tools. I have done a few projects so far which you can find on the section below and in my repositories. Currently I am working on extending my knowledge of JavaScript and Vue.js.
+I am a student of the third year of Information Technology (specialization in IT System Administration) at Pedagogical University of Cracow. I'm looking for my first job as a Junior Front-end Developer. I am constantly trying to develop in this direction and learn new technologies and tools. I have done a few projects so far which you can find on the section below and in my repositories. Currently I am working on extending my knowledge of JavaScript, TypeScript and Vue.js.
 
 ## My best projects
 
@@ -46,6 +46,8 @@ I am a student of the third year of Information Technology (specialization in IT
 ## Currently learning
 
 <img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+
+<img align="left" alt="TypeScript" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png"/>
 
 <img align="left" alt="Vue.js" width="26px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-color-tal-revivo.png" />
 
