@@ -16,44 +16,44 @@ I am a student of the third year of Information Technology (specialization in IT
 
 ## My development toolbelt
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/visual-studio-code.png" />
+<img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/visual-studio-code.png" />
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/html5.png" />
+<img align="left" alt="HTML5" title="HTML5" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/html5.png" />
 
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/css3.png" />
+<img align="left" alt="CSS3" title="CSS3" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/css3.png" />
 
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/sass.png" />
+<img align="left" alt="Sass" title="Sass" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/sass.png" />
 
-<img align="left" alt="Tailwind CSS" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/tailwind-css.png" />
+<img align="left" alt="Tailwind CSS" title="Tailwind CSS" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/tailwind-css.png" />
 
-<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/bootstrap.png" />
+<img align="left" alt="Bootstrap" title="Bootstrap" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/bootstrap.png" />
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/javascript.png"/>
+<img align="left" alt="JavaScript" title="JavaScript" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/javascript.png"/>
 
-<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/typescript.png"/>
+<img align="left" alt="TypeScript" title="TypeScript" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/typescript.png"/>
 
-<img align="left" alt="Npm" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/npm.png" />
+<img align="left" alt="Npm" title="Npm" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/npm.png" />
 
-<img align="left" alt="Yarn" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/yarn.png" />
+<img align="left" alt="Yarn" title="Yarn" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/yarn.png" />
 
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/git.png" />
+<img align="left" alt="Git" title="Git" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/git.png" />
 
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/terminal.png" />
+<img align="left" alt="Terminal" title="Terminal" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/terminal.png" />
 
-<img align="left" alt="Tmux" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/tmux.png" />
+<img align="left" alt="Tmux" title="Tmux" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/tmux.png" />
 
 <br/>
 <br/>
 
 ## Currently in progress
 
-<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/angular.png"/>
+<img align="left" alt="Angular" title="Angular" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/angular.png"/>
 
-<img align="left" alt="Vue.js" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/vue.png" />
+<img align="left" alt="Vue.js" title="Vue.js" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/vue.png" />
 
-<img align="left" alt="Playwright" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/playwright.png"/>
+<img align="left" alt="Playwright" title="Playwright" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/playwright.png"/>
 
-<img align="left" alt="Jest" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/jest.png"/>
+<img align="left" alt="Jest" title="Jest" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/jest.png"/>
 
 <br />
 <br />
