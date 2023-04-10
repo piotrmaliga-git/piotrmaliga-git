@@ -38,6 +38,8 @@ I am a student of the third year of Information Technology (specialization in IT
 
 <img align="left" alt="Git" title="Git" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/git.png" />
 
+<img align="left" alt="Figma" title="Figma" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/figma.png" />
+
 <img align="left" alt="Terminal" title="Terminal" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/terminal.png" />
 
 <img align="left" alt="Tmux" title="Tmux" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/tmux.png" />
