@@ -16,7 +16,9 @@ I am a student of the third year of Information Technology (specialization in IT
 
 ## My development toolbelt
 
-<img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/visual-studio-code.png" />
+<img  width="26px" src="https://skillicons.dev/icons?i=vscode,html,css,sass,tailwind,bootstrap,js,typescript,git" />
+
+<!-- <img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/visual-studio-code.png" />
 
 <img align="left" alt="HTML5" title="HTML5" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/html5.png" />
 
@@ -42,20 +44,22 @@ I am a student of the third year of Information Technology (specialization in IT
 
 <img align="left" alt="Terminal" title="Terminal" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/terminal.png" />
 
-<img align="left" alt="Tmux" title="Tmux" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/tmux.png" />
+<img align="left" alt="Tmux" title="Tmux" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/tmux.png" /> -->
 
 <br/>
 <br/>
 
 ## Currently in progress
 
-<img align="left" alt="Angular" title="Angular" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/angular.png"/>
+<img  width="26px" src="https://skillicons.dev/icons?i=angular,vue,jest,figma,firebase" />
+
+<!-- <img align="left" alt="Angular" title="Angular" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/angular.png"/>
 
 <img align="left" alt="Vue.js" title="Vue.js" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/vue.png" />
 
 <img align="left" alt="Playwright" title="Playwright" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/playwright.png"/>
 
-<img align="left" alt="Jest" title="Jest" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/jest.png"/>
+<img align="left" alt="Jest" title="Jest" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/jest.png"/> -->
 
 <br />
 <br />
