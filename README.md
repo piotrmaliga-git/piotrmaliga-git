@@ -16,7 +16,7 @@ I am a student of the third year of Information Technology (specialization in IT
 
 ## My development toolbelt
 
-<img  width="26px" height="26px" src="https://skillicons.dev/icons?i=vscode,html,css,sass,tailwind,bootstrap,js,typescript,git" />
+<img src="https://skillicons.dev/icons?i=vscode,html,css,sass,tailwind,bootstrap,js,typescript,git" />
 
 <!-- <img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/visual-studio-code.png" />
 
@@ -51,7 +51,7 @@ I am a student of the third year of Information Technology (specialization in IT
 
 ## Currently in progress
 
-<img  width="26px" height="26px" src="https://skillicons.dev/icons?i=angular,vue,jest,figma,firebase" />
+<img src="https://skillicons.dev/icons?i=angular,vue,jest,figma,firebase" />
 
 <!-- <img align="left" alt="Angular" title="Angular" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/angular.png"/>
 
