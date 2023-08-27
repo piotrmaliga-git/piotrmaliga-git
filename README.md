@@ -8,7 +8,7 @@ I am an Angular Front-end Developer with nearly 2 years of hands-on experience i
 
 ## My best projects
 
-#### [Pokepedia - Currnetly working on]([https://piotrmaliga-git.github.io/Temperature-Converter--Celsius-Fahrenheit/](https://pokepedia-vue-dev.vercel.app/)) ➜ [Repository](https://github.com/piotrmaliga-git/pokepedia)
+#### [Pokepedia (Currently working on)](https://pokepedia-vue-dev.vercel.app/) ➜ [Repository](https://github.com/piotrmaliga-git/pokepedia)
 
 #### [Temperature Converter (°C - °F)](https://piotrmaliga-git.github.io/Temperature-Converter--Celsius-Fahrenheit/) ➜ [Repository](https://github.com/piotrmaliga-git/Temperature-Converter--Celsius-Fahrenheit)
 
