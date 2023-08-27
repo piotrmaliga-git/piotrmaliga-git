@@ -4,9 +4,11 @@
 
 ## About me
 
-I am a student of the third year of Information Technology (specialization in IT System Administration) at Pedagogical University of Cracow. I'm looking for my first job as a Junior Front-end Developer. I am constantly trying to develop in this direction and learn new technologies and tools. I have done a few projects so far which you can find on the section below and in my repositories. Currently I am working on extending my knowledge of React.js and Vue.js.
+I am an Angular Front-end Developer with nearly 2 years of hands-on experience in creating responsive and visually appealing web applications. I am holding an engineering degree in Information Technology from the Pedagogical University of Cracow, I possess a strong foundation in software development concepts and practices. Eager to expand my skill set, I am enthusiastic about further honing my proficiency in Angular and Vue frameworks to contribute innovative solutions to dynamic development projects.
 
 ## My best projects
+
+#### [Pokepedia - Currnetly working on]([https://piotrmaliga-git.github.io/Temperature-Converter--Celsius-Fahrenheit/](https://pokepedia-vue-dev.vercel.app/)) ➜ [Repository](https://github.com/piotrmaliga-git/pokepedia)
 
 #### [Temperature Converter (°C - °F)](https://piotrmaliga-git.github.io/Temperature-Converter--Celsius-Fahrenheit/) ➜ [Repository](https://github.com/piotrmaliga-git/Temperature-Converter--Celsius-Fahrenheit)
 
@@ -14,9 +16,9 @@ I am a student of the third year of Information Technology (specialization in IT
 
 #### [Poznaj Linuxa! (Linux website)](https://piotrmaliga-git.github.io/Poznaj-Linuxa--Linux-website/) ➜ [Repository](https://github.com/piotrmaliga-git/Poznaj-Linuxa--Linux-website)
 
-## My development toolbelt
+## My development tool belt
 
-<img src="https://skillicons.dev/icons?i=vscode,html,css,sass,tailwind,bootstrap,js,typescript,git" />
+<img src="https://skillicons.dev/icons?i=vscode,html,css,sass,tailwind,bootstrap,js,typescript,git,figma" />
 
 <!-- <img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/visual-studio-code.png" />
 
@@ -51,7 +53,7 @@ I am a student of the third year of Information Technology (specialization in IT
 
 ## Currently in progress
 
-<img src="https://skillicons.dev/icons?i=angular,vue,jest,figma,firebase" />
+<img src="https://skillicons.dev/icons?i=angular,vue" />
 
 <!-- <img align="left" alt="Angular" title="Angular" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/angular.png"/>
 
