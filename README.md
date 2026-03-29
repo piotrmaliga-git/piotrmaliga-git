@@ -20,7 +20,7 @@ I am an Angular Frontend Developer with over four years of experience building r
 
 ## My development tool belt
 
-<img src="https://skillicons.dev/icons?i=angular,html,css,sass,tailwind,bootstrap,js,ts,git,github,githubactions,vitest,jest,playwright,cypress" />
+<img src="https://skillicons.dev/icons?i=angular,html,css,sass,tailwind,bootstrap,js,ts,git,github,githubactions,vitest,jest,cypress" />
 
 <!-- <img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/visual-studio-code.png" />
 
@@ -54,4 +54,4 @@ I am an Angular Frontend Developer with over four years of experience building r
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piotrmaliga-git&layout=compact&langs_count=10&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piotrmaliga-git&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
