@@ -1,14 +1,14 @@
 ## Hi there 👋
 
-<img src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/banner2.jpg" alt="Hello world">
+<img src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/banner.jpg" alt="Hello world">
 
 ## About me
 
-I am an Angular Frontend Developer with over 4 years of hands-on experience creating responsive, high-performance web applications. I hold an Engineering degree in Computer Science from the Pedagogical University of Cracow and am currently completing my Master’s degree in Cybersecurity at the Cracow University of Technology. I focus on user-friendly, accessible, strong test coverage. I am passionate about building scalable solutions and continuously improving code quality through best practices and modern development tools.
+I am an Angular Frontend Developer with over four years of experience building responsive, high-performance web applications. I hold an Engineering degree in Computer Science from the Pedagogical University of Cracow and am currently pursuing a Master’s degree in Cybersecurity at the Cracow University of Technology. I specialize in creating user-friendly and accessible interfaces with strong test coverage. I am passionate about developing scalable solutions and continuously improving code quality through best practices and modern development tools.
 
 ## My best projects
 
-#### Phishing Email Analyzer (Currently working on) ➜ [Repository](https://github.com/piotrmaliga-git/graduate-work)
+#### [Phishing Email Analyzer - graduate work (Currently working on)] ➜ [Repository](https://github.com/piotrmaliga-git/graduate-work)
 
 #### [Pokepedia (Not finished)](https://pokepedia-vue-dev.vercel.app/) ➜ [Repository](https://github.com/piotrmaliga-git/pokepedia)
 
@@ -20,7 +20,7 @@ I am an Angular Frontend Developer with over 4 years of hands-on experience crea
 
 ## My development tool belt
 
-<img src="https://skillicons.dev/icons?i=vscode,html,css,sass,tailwind,bootstrap,js,typescript,git,figma" />
+<img src="https://skillicons.dev/icons?i=angular,html,css,sass,tailwind,bootstrap,js,ts,git,github,githubactions,figma,vitest,jest,cypress" />
 
 <!-- <img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/visual-studio-code.png" />
 
@@ -54,4 +54,4 @@ I am an Angular Frontend Developer with over 4 years of hands-on experience crea
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piotrmaliga-git&layout=compact&langs_count=10&hide=html&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piotrmaliga-git&layout=compact&langs_count=10&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
