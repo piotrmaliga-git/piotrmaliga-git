@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/banner.png" alt="Hello world">
+<img src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/banner2.jpg" alt="Hello world">
 
 ## About me
 
