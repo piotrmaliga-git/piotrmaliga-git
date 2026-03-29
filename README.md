@@ -4,11 +4,13 @@
 
 ## About me
 
-I am an Angular Front-end Developer with nearly 2 years of hands-on experience in creating responsive and visually appealing web applications. I am holding an engineering degree in Information Technology from the Pedagogical University of Cracow, I possess a strong foundation in software development concepts and practices. Eager to expand my skill set, I am enthusiastic about further honing my proficiency in Angular and Vue frameworks to contribute innovative solutions to dynamic development projects.
+I am an Angular Frontend Developer with over 4 years of hands-on experience creating responsive, high-performance web applications. I hold an Engineering degree in Computer Science from the Pedagogical University of Cracow and am currently completing my Master’s degree in Cybersecurity at the Cracow University of Technology. I focus on user-friendly, accessible, strong test coverage. I am passionate about building scalable solutions and continuously improving code quality through best practices and modern development tools.
 
 ## My best projects
 
-#### [Pokepedia (Currently working on)](https://pokepedia-vue-dev.vercel.app/) ➜ [Repository](https://github.com/piotrmaliga-git/pokepedia)
+#### Phishing Email Analyzer (Currently working on) ➜ [Repository](https://github.com/piotrmaliga-git/graduate-work)
+
+#### [Pokepedia (Not finished)](https://pokepedia-vue-dev.vercel.app/) ➜ [Repository](https://github.com/piotrmaliga-git/pokepedia)
 
 #### [Temperature Converter (°C - °F)](https://piotrmaliga-git.github.io/Temperature-Converter--Celsius-Fahrenheit/) ➜ [Repository](https://github.com/piotrmaliga-git/Temperature-Converter--Celsius-Fahrenheit)
 
@@ -48,23 +50,8 @@ I am an Angular Front-end Developer with nearly 2 years of hands-on experience i
 
 <img align="left" alt="Tmux" title="Tmux" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/tmux.png" /> -->
 
-<br/>
-<br/>
-
-## Currently in progress
-
-<img src="https://skillicons.dev/icons?i=angular,vue" />
-
-<!-- <img align="left" alt="Angular" title="Angular" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/angular.png"/>
-
-<img align="left" alt="Vue.js" title="Vue.js" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/vue.png" />
-
-<img align="left" alt="Playwright" title="Playwright" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/playwright.png"/>
-
-<img align="left" alt="Jest" title="Jest" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/jest.png"/> -->
-
 <br />
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piotrmaliga-git&layout=compact&langs_count=10&hide=html&theme=radical&hide_border=true)](https://github.com/piotrmaliga-git/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piotrmaliga-git&layout=compact&langs_count=10&hide=html&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
