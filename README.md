@@ -8,7 +8,7 @@ I am an Angular Frontend Developer with over four years of experience building r
 
 ## My best projects
 
-#### [Phishing Email Analyzer - graduate work (Currently working on)] ➜ [Repository](https://github.com/piotrmaliga-git/graduate-work)
+#### Phishing Email Analyzer - graduate work (Currently working on) ➜ [Repository](https://github.com/piotrmaliga-git/graduate-work)
 
 #### [Pokepedia (Not finished)](https://pokepedia-vue-dev.vercel.app/) ➜ [Repository](https://github.com/piotrmaliga-git/pokepedia)
 
@@ -20,7 +20,7 @@ I am an Angular Frontend Developer with over four years of experience building r
 
 ## My development tool belt
 
-<img src="https://skillicons.dev/icons?i=angular,html,css,sass,tailwind,bootstrap,js,ts,git,github,githubactions,figma,vitest,jest,cypress" />
+<img src="https://skillicons.dev/icons?i=angular,html,css,sass,tailwind,bootstrap,js,ts,git,github,githubactions,vitest,jest,playwright,cypress" />
 
 <!-- <img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/visual-studio-code.png" />
 
