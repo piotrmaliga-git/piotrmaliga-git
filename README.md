@@ -8,7 +8,7 @@ I am an Angular Frontend Developer with over four years of experience building r
 
 ## My best projects
 
-#### Phishing Email Analyzer - graduate work (Currently working on) ➜ [Repository](https://github.com/piotrmaliga-git/graduate-work)
+#### Phishing Email Analyzer - Master's work (Currently working on) ➜ [Repository](https://github.com/piotrmaliga-git/master-work)
 
 #### [Pokepedia (Not finished)](https://pokepedia-vue-dev.vercel.app/) ➜ [Repository](https://github.com/piotrmaliga-git/pokepedia)
 
