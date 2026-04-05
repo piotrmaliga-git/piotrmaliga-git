@@ -49,9 +49,3 @@ I am Angular Front-end Developer with over four years of hands-on experience, I 
 <img align="left" alt="Terminal" title="Terminal" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/terminal.png" />
 
 <img align="left" alt="Tmux" title="Tmux" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/tmux.png" /> -->
-
-<br />
-<br />
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piotrmaliga-git&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
