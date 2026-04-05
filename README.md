@@ -51,7 +51,7 @@ I am Angular Front-end Developer with over four years of hands-on experience, I 
 <img align="left" alt="Tmux" title="Tmux" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/tmux.png" /> -->
 
 
-## GitHub Stats
+## GitHub Profile Stats
 
 <p align="center">
   <a href="https://github.com/piotrmaliga-git">
