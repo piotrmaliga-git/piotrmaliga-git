@@ -4,7 +4,7 @@
 
 ## About me
 
-I am an Angular Frontend Developer with over four years of experience building responsive, high-performance web applications. I hold an Engineering degree in Computer Science from the Pedagogical University of Cracow and am currently pursuing a Master’s degree in Cybersecurity at the Cracow University of Technology. I specialize in creating user-friendly and accessible interfaces with strong test coverage. I am passionate about developing scalable solutions and continuously improving code quality through best practices and modern development tools.
+With over four years of hands-on experience, I build responsive and high-performance web applications, earning an Engineering degree in Computer Science from the Pedagogical University of Cracow. Currently, I am completing my Master’s degree in Cybersecurity at the Cracow University of Technology. My work focuses on creating intuitive, accessible applications. I care about strong test coverage and clean architecture and also continuously develop my front-end expertise. At the same time, I expand my knowledge of AI to design smarter, more efficient solutions. Right now, I am working on my graduate work on a comparative analysis of the effectiveness of language models in detecting phishing messages. To support this research, I built a full-stack application - Phishing Email Analyzer. It allows users to analyze emails and receive detection results based on different models
 
 ## My best projects
 
