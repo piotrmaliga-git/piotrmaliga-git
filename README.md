@@ -50,16 +50,3 @@ I am Angular Front-end Developer with over four years of hands-on experience, I 
 
 <img align="left" alt="Tmux" title="Tmux" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/tmux.png" /> -->
 
-
-## GitHub Profile Stats
-
-<p align="center">
-  <a href="https://github.com/piotrmaliga-git">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=piotrmaliga-git&show_icons=true&hide_border=true&rank_icon=github&theme=default#gh-light-mode-only" alt="GitHub stats (light)" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=piotrmaliga-git&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&bg_color=00000000#gh-dark-mode-only" alt="GitHub stats (dark)" />
-  </a>
-  <a href="https://github.com/piotrmaliga-git?tab=repositories">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piotrmaliga-git&layout=donut&hide_border=true&langs_count=8&theme=default#gh-light-mode-only" alt="Top languages donut (light)" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piotrmaliga-git&layout=donut&hide_border=true&langs_count=8&theme=github_dark&bg_color=00000000#gh-dark-mode-only" alt="Top languages donut (dark)" />
-  </a>
-</p>
