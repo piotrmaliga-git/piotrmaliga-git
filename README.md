@@ -22,6 +22,10 @@ I am Software Engineer with over four years of hands-on experience, I build resp
 
 <img src="https://skillicons.dev/icons?i=angular,html,css,sass,tailwind,bootstrap,js,ts,git,github,githubactions,vitest,jest,cypress" />
 
+## In progress
+
+<img src="https://skillicons.dev/icons?i=java,python" />
+
 <!-- <img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/visual-studio-code.png" />
 
 <img align="left" alt="HTML5" title="HTML5" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/html5.png" />
