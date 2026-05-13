@@ -20,7 +20,7 @@ I am Software Engineer with over four years of hands-on experience, I build resp
 
 ## My development tool belt
 
-<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,sass,tailwind,bootstrap,materialui,vitest,jest,cypress,git,github,gitlab,githubactions" />
+<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,sass,tailwind,bootstrap,vitest,jest,cypress,git,github,gitlab,githubactions" />
 
 <!-- <img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/piotrmaliga-git/piotrmaliga-git/main/images/icons/visual-studio-code.png" />
 
