@@ -4,7 +4,7 @@
 
 ## About me
 
-I am Software Engineer with over four years of hands-on experience, I build responsive and high-performance web applications, earning an Engineering degree in Computer Science from the University of the National Education Commission. Currently, I am completing my Master’s degree in Cybersecurity at the Cracow University of Technology. My work focuses on creating intuitive, accessible applications. I care about strong test coverage and clean architecture. I continuously develop my knowledge expertise while also expanding my knowledge across other areas, aiming to grow as a T-shaped developer. At the same time, I expand my knowledge of AI to design smarter, more efficient solutions. Right now, I am working on my graduate work on a comparative analysis of the effectiveness of language models in detecting phishing messages. To support this research, I built a full-stack application - Phishing Email Analyzer. It allows users to analyze emails and receive detection results based on different models.
+I am Full Stack Software Engineer with over four years of frontend experience, I build responsive, high-performance web applications with a focus on clean architecture, accessibility, and strong test coverage. I am actively expanding into full-stack development, driven by genuine curiosity and a hands-on approach to learning. A recent example of this is the Phishing Email Analyzer - a full-stack application I built end-to-end as my graduate project, supporting my research on the effectiveness of language models in detecting phishing messages. I see myself as a T-shaped developer: deep frontend expertise, with growing full-stack capability and a strong drive to keep pushing that boundary. 
 
 ## My best projects
 
