@@ -4,7 +4,7 @@
 
 ## About me
 
-I am Full Stack Software Engineer with over four years of frontend experience, I build responsive, high-performance web applications with a focus on clean architecture, accessibility, and strong test coverage. I am actively expanding into full-stack development, driven by genuine curiosity and a hands-on approach to learning. A recent example of this is the Phishing Email Analyzer - a full-stack application I built end-to-end as my graduate project, supporting my research on the effectiveness of language models in detecting phishing messages. I see myself as a T-shaped developer: deep frontend expertise, with growing full-stack capability and a strong drive to keep pushing that boundary. 
+I'm Software Engineer with over four years of front-end experience, I build responsive, high-performance web  applications with a focus on clean architecture, accessibility, and strong test coverage. I am  actively expanding into full-stack development, driven by genuine curiosity and a hands-on  approach to learning. A recent example of this is the Phishing Email Analyzer - a full-stack  application I built end-to-end as my graduate project, supporting my research on the  effectiveness of language models in detecting phishing messages. I see myself as a T-shaped  developer: deep frontend expertise, with growing full-stack capability and a strong drive to keep  pushing that boundary.
 
 ## My best projects
 
